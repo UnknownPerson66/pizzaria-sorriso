@@ -233,8 +233,6 @@ section {
 
 #menu {
   text-align: center;
-  background: rgba(251, 119, 63, 0.1333333333);
-  background: radial-gradient(circle, rgba(251, 48, 48, 0.242) 0%, rgb(244, 244, 244) 53%);
 }
 #menu .menu__container {
   display: flex;
