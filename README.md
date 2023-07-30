@@ -12,9 +12,9 @@ Bem-vindo à nossa pizzaria, onde cada fatia é seu sorriso garantido. Delicie-s
 ## Images do projeto
 
 - **Desktop**
-![image](https://github.com/UnknownPerson66/pizzaria-sorriso/assets/46661756/bfe1535e-5889-43a8-9735-7c7887d3cf8f)
-![image](https://github.com/UnknownPerson66/pizzaria-sorriso/assets/46661756/4b913d77-bc00-47f6-9bc9-dc9f6ac2a4e7)
+ ![image](https://github.com/UnknownPerson66/pizzaria-sorriso/assets/46661756/b86d4981-ee46-4c7d-9c4d-fd3212fa910f)
+
 
 - **Mobile**
   
-![image](https://github.com/UnknownPerson66/pizzaria-sorriso/assets/46661756/d5492dd0-8f94-4147-b1f1-ecca63641fcc)
+![image](https://github.com/UnknownPerson66/pizzaria-sorriso/assets/46661756/0e9473ff-833b-4ee1-a47a-4ec34f0c156d)
